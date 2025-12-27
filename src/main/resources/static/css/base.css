@@ -1,0 +1,63 @@
+body{
+    min-height: 100vh;
+    margin: 0px;
+    
+    background-image: url("../images/red-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.cabecalho {
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: rgb(255, 0, 0);
+    padding: 1rem 0.8rem;   
+    gap: 1rem;
+    justify-content: space-around;
+}
+
+.cabecalho-front{
+    gap: 1rem;
+}
+
+.bg-white{
+    background-color: white;
+}
+.text-white{
+    color: white;
+}
+
+.row-flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icon-1{
+    width: 50px; height: 50px;
+}
+
+.icon-2{
+    width: 100px; height: 100px;
+}
+
+.icon-3{
+    width: 200px; height: 200px;
+}
+
+.dark-bg{
+    background-color: rgba(0, 0, 0, 0.74);
+    position: absolute;
+    width: 100vw; height: 100vh;
+    z-index: -1;
+}
+
+.hover-bb:hover{
+    padding-bottom: 0.2rem;
+    border-bottom: 4px solid white;
+}
+
+.cursor{
+    cursor: pointer;
+}
