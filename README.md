@@ -4,6 +4,8 @@ Sistema de Gerenciamento de Natal (ou Natais)
 
 *Como Programador Não consegue passar muito tempo sem Programar fica aí um projeto para as férias: aprender mais de Java Spring, JPA e React num projetinho de qualidade duvidosa*
 
+<img src="tela-inicial.jpg">
+
 ## Missão 
 
 A ChristmasLand é Terra do Natal 🎄, as festas de fim de ano e alegria das crianças dependem do funcionamento correto de ChristmasLand! Papai Noel precisa de um sistema que o auxilie a:
