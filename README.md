@@ -5,9 +5,9 @@
 
 <img src="tela-inicial.jpg">
 
-## Missão 
+### Missão:
 
-A ChristmasLand é Terra do Natal 🎄, as festas de fim de ano e alegria das crianças dependem do funcionamento correto de ChristmasLand! 
+> A ChristmasLand é Terra do Natal 🎄, as festas de fim de ano e alegria das crianças dependem do funcionamento correto de ChristmasLand! Então é necessário criar um sistema pra manter essa máquina viva;
 
 - 🎁 Pedidos de Presente são feitos e avaliados o ano inteiro pela equipe de revisores
 - 🏃 Os pedidos aprovados são revisados, organizados e uma rota é traçada
@@ -17,3 +17,7 @@ A ChristmasLand é Terra do Natal 🎄, as festas de fim de ano e alegria das cr
 - 🤨 E é claro vender uns bagulinhos aí pq durante 11 meses precisamos ganhar uma grana. 💸
 
 *Sim, eu gosto de usar muitos emojis 🙃*
+
+### Quando fica pronto?
+
+> Resposta curta e direta: *"Só Deus Sabe"*
