@@ -1,8 +1,12 @@
+:root{
+    --tipo-transparente: linear-gradient(to top left, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.034));
+}
+
 body{
     min-height: 100vh;
     margin: 0px;
     
-    background-image: url("../images/red-bg.jpg");
+    background-image: url("../assets/red-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -61,3 +65,28 @@ body{
 .cursor{
     cursor: pointer;
 }
+
+a{
+    color: rgb(18, 67, 172);
+}
+
+.button{
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    background-image: var(--tipo-transparente);
+    
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, 0.329);   
+    border-radius: 2rem; 
+    padding: 0.6rem;
+    cursor: pointer;
+    transition: all ease-in-out 200ms;
+}
+
+.button:hover{
+    color: rgb(134, 7, 24);
+    background-color: white;
+    background-image: none;
+}
+
