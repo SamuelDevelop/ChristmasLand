@@ -12,19 +12,6 @@ body{
     background-position: center;
 }
 
-.cabecalho {
-    width: 100vw;
-    box-sizing: border-box;
-    background-color: rgb(255, 0, 0);
-    padding: 1rem 0.8rem;   
-    gap: 1rem;
-    justify-content: space-around;
-}
-
-.cabecalho-front{
-    gap: 1rem;
-}
-
 .bg-white{
     background-color: white;
 }
@@ -51,15 +38,15 @@ body{
 }
 
 .dark-bg{
-    background-color: rgba(0, 0, 0, 0.74);
+    background-color: rgba(0, 0, 0, 0.199);
+    
     position: absolute;
     width: 100vw; height: 100vh;
     z-index: -1;
 }
 
 .hover-bb:hover{
-    padding-bottom: 0.2rem;
-    border-bottom: 4px solid white;
+    color: rgb(255, 37, 66);
 }
 
 .cursor{
@@ -85,7 +72,7 @@ a{
 }
 
 .button:hover{
-    color: rgb(134, 7, 24);
+    color: rgb(255, 0, 34);
     background-color: white;
     background-image: none;
 }
