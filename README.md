@@ -18,10 +18,9 @@
 
 **Frontend:**
 
-![ts](https://img.shields.io/badge/TypeScript-React_(Vite)-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-React_(Vite)-4A4A4A?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend:**
 
