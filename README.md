@@ -1,24 +1,35 @@
 # ChristmasLand
 <h3> Sistema de Gerenciamento de Natal (ou Natais) </h3>
 
-> *Como Programador Não consegue passar muito tempo sem Programar fica aí um projeto para as férias: aprender mais de Java Spring, JPA e React num projetinho de qualidade duvidosa*
-
 <img src="tela-inicial.jpg">
 
-### Missão:
+## Missão:
 
 > A ChristmasLand é Terra do Natal 🎄, as festas de fim de ano e alegria das crianças dependem do funcionamento correto de ChristmasLand! Então é necessário criar um sistema pra manter essa máquina viva;
 
-- 🎁 Pedidos de Presente são feitos e avaliados o ano inteiro pela equipe de revisores
-- 🏃 Os pedidos aprovados são revisados, organizados e uma rota é traçada
-- 🦌 No Natal as Renas entregam cada pedido em uma casa.
-- 📍 Após o pedido ser entregue, avaliações podem ser feitas
-- 🎅 Durante o Ano podemos Sugerir Presentes aos nossos vitantes. 
-- 🤨 E é claro vender uns bagulinhos aí pq durante 11 meses precisamos ganhar uma grana. 💸
+- Pedidos de Presente são feitos e avaliados o ano inteiro pela equipe de revisores
+- Os pedidos aprovados são revisados, organizados e uma rota é traçada
+- No Natal as Renas entregam cada pedido em uma casa.
+- Após o pedido ser entregue, avaliações podem ser feitas
+- Durante o Ano podemos Sugerir Presentes aos nossos vitantes. 
+- E é claro vender uns bagulinhos aí pq durante 11 meses precisamos ganhar uma grana. 
 
-*Sim, eu gosto de usar muitos emojis 🙃*
+## das Tecnologias
 
-### Quando fica pronto?
+**Frontend:**
 
-> Resposta curta e direta: *"Só Deus Sabe"*
+![ts](https://img.shields.io/badge/TypeScript-React_(Vite)-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend:**
+
+![Java](https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**Database:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-JPA-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
